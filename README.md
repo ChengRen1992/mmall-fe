@@ -1,4 +1,6 @@
 建议使用相同的版本，以避免不必要的麻烦。
+安装命令：npm install
+运行服务：npm run dev
 
   "devDependencies": {
     "css-loader": "^0.28.1",
