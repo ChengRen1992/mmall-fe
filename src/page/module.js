@@ -1,10 +1,11 @@
 /*
-* @Author: Ren
-* @Date:   2018-01-22 15:37:11
-* @Last Modified by:   Ren
-* @Last Modified time: 2018-01-22 15:38:14
+* @Author: Rosen
+* @Date:   2017-05-09 16:47:03
+* @Last Modified by:   Rosen
+* @Last Modified time: 2017-05-09 16:47:14
 */
+
 'use strict';
 module.exports = {
-	test: 1234
+    test: 1234
 }
